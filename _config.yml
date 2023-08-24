@@ -1,6 +1,6 @@
 title: Zhongtian Zhang
 url: "https://zhangepl.github.io"
-baseurl: "/researcher"
+# baseurl: "/researcher"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,8 +17,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "ZZCV.pdf"
  - name: "Contact"
    link: "contact"
