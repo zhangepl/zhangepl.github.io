@@ -7,7 +7,7 @@ markdown: kramdown
 
 tracking_id: #
 
-footer: yes
+footer: no
 footer_url: "https://zhangepl.github.io"
 footer_text: "Zhongtian Zhang, Yale University"
 
