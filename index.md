@@ -17,3 +17,5 @@ Most of my past and ongoing research projects are about planetesimals (asteroid-
 * Silicate melt migration and differentiation in planetesimals and planetary embryos
 
 * Volatile depletion in terrestrial bodies due to nebular and planetesimal processes
+
+For more information, please check my [full publication list](https://zhangepl.github.io/publications), or send me an [email](mailto:zhongtian.zhang@yale.edu).
