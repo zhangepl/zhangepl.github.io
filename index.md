@@ -12,7 +12,7 @@ Most of my past and ongoing research projects are about planetesimals (asteroid-
 
 * Ice sublimation and aqueous in initially water/ice rich planetesimals
 
-* The formation and evolution of planetesimal cores and mantle-stripped metallic bodies
+* The formation and evolution of planetesimal cores and mantle-stripped metallic bodies, and dynamo activities in these objects
 
 * Silicate melt migration and differentiation in planetesimals and planetary embryos
 
