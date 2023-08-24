@@ -10,7 +10,7 @@ I am generally interested in planetary formation and evolution processes. Partic
 
 Most of my past and ongoing research projects are about planetesimals (asteroid-sized planet build blocks) and planetary embryos (Moon-to-Mars-sized "proto-planets"). Specifically, my research interest covers the following topics:
 
-* Ice sublimation and hydrothermal processes in initially water/ice rich planetesimals
+* Ice sublimation and hydrothermal processes in initially water/ice-rich planetesimals
 
 * The formation and evolution of planetesimal cores and mantle-stripped metallic bodies, and dynamo activities in these objects
 
