@@ -2,44 +2,36 @@
 layout: default
 ---
 
-## About Me
+## About Me 
 
-<img class="profile-picture" src="sherlock.jpg">
+I am a planetary geohyysicist studying the formation and evolution of planetary bodies. My general research approach is to develop theoretical models and combine the model results with a variety of observations to propose, test, and constrain scenarios of planet formation and evolution. I am particularly interested in understanding how planet formation processes affected the evolution of planetary bodies toward their current states. 
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+During my PhD, I worked with Prof. David Bercovici at Yale University. From September 2023, I will be working as a  Carnegie Postdoctoral Fellow at the Earth and Planets Laboratory, Carnegie Institution for Science.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
-
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+**Articles: Submitted**
 
-## Typography
+**Zhang, Z.**, Trace elements in IVA iron meteorites explained by limited solid-liquid equilibration
+during inward solidification. Submitted.
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+**Zhang, Z.**, Wang, J., Quantification of classical and non-classical crystallization pathways in calcite precipitation. Submitted.
 
-Here is a table
+**Articles: Published or in Press**
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+**Zhang, Z.**, Bercovici, D., 2023. Generation of a measurable magnetic field in a metal asteroid with a rubble-pile inner core. Proc. Natl. Acad. Sci. 120 (32), e2221696120. https://doi.org/10.1073/pnas.2221696120
 
-Here is a horizontal rule
+Gong, Z., Evans, D. A. D., **Zhang, Z.**, Yan, C., Mid-Proterozoic geomagnetic field was more con- sistent with a dipole than a quadrupole. Geology. 51 (6), 571–575. https://doi.org/10.1130/ G50941.1
 
----
+**Zhang, Z.**, Bercovici, D., Elkins-Tanton, L. T., 2023. Melt migration in rubble-pile planetesimals: Implications for the formation of primitive achondrites. Earth Planet. Sci. Lett. 605, 118019. https://doi.org/10.1016/j.epsl.2023.118019
 
-Here is a blockquote
+**Zhang, Z.**, Bercovici, D., Elkins-Tanton, L. T., 2022. Cold compaction and macro-porosity removal in rubble-pile asteroids: 2. Applications. J. Geophys. Res., Planets 127, e2022JE007343. https://doi.org/10.1029/2022JE007343
 
-> To a great mind, nothing is little
+**Zhang, Z.**, Bercovici, D., Elkins-Tanton, L. T., 2022. Cold compaction and macro-porosity removal in rubble-pile asteroids: 1. Theory. J. Geophys. Res., Planets 127, e2022JE007342. https://doi.org/10.1029/2022JE007342
 
-## References
+**Zhang, Z.**, Bercovici, D., Jordan, J.S., 2021. A two-phase model for the evolution of planetary embryos with implications for the formation of Mars. J. Geophys. Res., Planets 126, e2020JE006754. https://doi.org/10.1029/2020JE006754
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+**Zhang, Z.**, Karato, S.-I., 2021. The effect of pressure on grain-growth kinetics in olivine aggregates with some geophysical applications. J. Geophys. Res., Solid Earth 126, e2020JB020886. https://doi.org/10.1029/2020JB020886
+
+**Zhang, Z.**, Wu, B., Wang, T., Hui, H., 2020. Settling of immiscible droplets: A theoretical model for the missing link between microscopic and outcrop observations. J. Geophys. Res., Solid Earth 125, e2019JB018829. https://doi.org/10.1029/2019JB018829
