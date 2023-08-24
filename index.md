@@ -18,4 +18,4 @@ Most of my past and ongoing research projects are about planetesimals (asteroid-
 
 * Volatile depletion in terrestrial bodies due to nebular and planetesimal processes
 
-For more information, please check my [CV](https://zhangepl.github.io/CV) and [publication list](https://zhangepl.github.io/publications), or send me an [email](mailto:zhongtian.zhang@yale.edu).
+For more information, please check my [CV](https://zhangepl.github.io/ZZCV.pdf) and [publication list](https://zhangepl.github.io/publications), or send me an [email](mailto:zhongtian.zhang@yale.edu).
