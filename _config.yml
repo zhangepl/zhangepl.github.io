@@ -20,5 +20,5 @@ nav:
    link: "/"
  - name: "CV"
    link: "ZZCV.pdf"
- - name: "Contact"
-   link: "contact"
+ - name: "Publications"
+   link: "publications"
