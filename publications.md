@@ -25,7 +25,7 @@ Gong, Z., Evans, D. A. D., **Zhang, Z.**, Yan, C., 2023. **Mid-Proterozoic geoma
 
 **Zhang, Z.**, Wu, B., Wang, T., Hui, H., 2020. **Settling of immiscible droplets: A theoretical model for the missing link between microscopic and outcrop observations**. J. Geophys. Res., Solid Earth 125, e2019JB018829. [https://doi.org/10.1029/2019JB018829](https://doi.org/10.1029/2019JB018829)
 
-Xu, Y., Tang,W., Hui, H., Rudnick, R. L., Shang, S., **Zhang, Z.**, 2019. **Reconciling the discrepancy
+Xu, Y., Tang, W., Hui, H., Rudnick, R. L., Shang, S., **Zhang, Z.**, 2019. **Reconciling the discrepancy
 between the dehydration rates in mantle olivine and pyroxene during xenolith emplacement**. Geochim.
 Cosmochim. Acta. 267, 179–195. [https://doi.org/10.1016/j.gca.2019.09.023](https://doi.org/10.1016/j.gca.2019.09.023)
 
