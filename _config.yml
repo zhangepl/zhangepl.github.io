@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://zhangepl.github.io"
-footer_text: "Zhongtian Zhang, Yale University"
+footer_text: "Zhongtian Zhang, Carnegie EPL"
 
 sass:
     style: compressed
