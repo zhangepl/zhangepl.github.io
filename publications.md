@@ -2,10 +2,12 @@
 
 * **Articles: Submitted**
 
-**Zhang, Z.**, **Trace elements in IVA iron meteorites explained by limited solid-liquid equilibration
-during inward solidification**. Submitted.
+**Zhang, Z.**, **Ice sublimation in planetesimals formed at outward migrating snowline**. Submitted
 
 **Zhang, Z.**, Wang, J., **Quantification of classical and non-classical crystallization pathways in calcite precipitation**. Submitted.
+
+**Zhang, Z.**, **Trace elements in IVA iron meteorites explained by limited solid-liquid equilibration
+during inward solidification**. In revision.
 
 * **Articles: Published or in Press**
 
