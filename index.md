@@ -8,7 +8,7 @@ Welcome to my website!
 
 In September 2023, I started as a Carnegie Postdoctoral Fellow at [the Earth and Planets Laboratory](https://epl.carnegiescience.edu), Carnegie Institution for Science. During my PhD, I worked with Prof. David Bercovici at the Department of Earth and Planetary Sciences, Yale University.
 
-I am generally interested in the formation and evolution of planetary bodies. My general research approach is to develop theoretical models and combine the model results with a variety of observations to propose, test, and constrain scenarios of planet formation and evolution. My ultimate goals are to understand what processes shaped the chemical and physical properties of terrestrial planets and how these properties affected their evolution. I tackle these problems from the perspective of the evolution of planetary building blocks and their interactions with planet formation processes.
+I am generally interested in the formation and evolution of planetary bodies. My general research approach is to develop theoretical models and combine the model results with a variety of observations. My ultimate goals are to understand what processes shaped the chemical and physical properties of terrestrial planets and how these properties affected their evolution. I tackle these problems from the perspective of the evolution of planetary building blocks and their interactions with planet formation processes.
 
 Most of my past and ongoing research projects are about planetesimals (asteroid-sized planet build blocks) and planetary embryos (Moon-to-Mars-sized "proto-planets"). Specifically, my research interest covers the following topics:
 
