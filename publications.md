@@ -1,15 +1,15 @@
 ## Publications
 
 * **Articles: Submitted**
-
-**Zhang, Z.**, **Ice sublimation in planetesimals formed at outward migrating snowline**. Submitted
-
+* 
 **Zhang, Z.**, Wang, J., **Quantification of classical and non-classical crystallization pathways in calcite precipitation**. Submitted.
 
 **Zhang, Z.**, **Trace elements in IVA iron meteorites explained by limited solid-liquid equilibration
 during inward solidification**. In revision.
 
 * **Articles: Published or in Press**
+
+* **Zhang, Z.**, 2023. **Ice sublimation in planetesimals formed at outward migrating snowline**. Submitted
 
 **Zhang, Z.**, Bercovici, D., 2023. **Generation of a measurable magnetic field in a metal asteroid with a rubble-pile inner core**. Proc. Natl. Acad. Sci. 120 (32), e2221696120. [https://doi.org/10.1073/pnas.2221696120](https://doi.org/10.1073/pnas.2221696120)
 
