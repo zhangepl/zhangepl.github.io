@@ -7,7 +7,7 @@
 **Zhang, Z.**, **Trace elements in IVA iron meteorites explained by limited solid-liquid equilibration
 during inward solidification**. In revision for Icarus.
 
-* **Articles: Published or in Press**
+* **Articles: Published or In Press**
 
 **Zhang, Z.**, 2023. **Ice sublimation in planetesimals formed at outward migrating snowline**. Astrophys. J. Lett. In press.
 
