@@ -9,7 +9,7 @@ during inward solidification**. In revision for Icarus.
 
 * **Articles: Published or In Press**
 
-**Zhang, Z.**, 2023. **Ice sublimation in planetesimals formed at the outward migrating snowline**. Astrophys. J. Lett. 956 (L25). [https://doi.org/10.3847/2041-8213/acfdaa](https://doi.org/10.3847/2041-8213/acfdaa)
+**Zhang, Z.**, 2023. **Ice sublimation in planetesimals formed at the outward migrating snowline**. Astrophys. J. Lett. 956(1) L25. [https://doi.org/10.3847/2041-8213/acfdaa](https://doi.org/10.3847/2041-8213/acfdaa)
 
 **Zhang, Z.**, Bercovici, D., 2023. **Generation of a measurable magnetic field in a metal asteroid with a rubble-pile inner core**. Proc. Natl. Acad. Sci. 120 (32), e2221696120. [https://doi.org/10.1073/pnas.2221696120](https://doi.org/10.1073/pnas.2221696120)
 
