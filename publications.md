@@ -2,12 +2,12 @@
 
 * **Articles: Submitted**
   
-**Zhang, Z.**, Wang, J., **Quantification of classical and non-classical crystallization pathways in calcite precipitation**. Under review for Earth Planet. Sci. Lett.
+**Zhang, Z.**, Wang, J., **Quantification of classical and non-classical crystallization pathways in calcite precipitation**. Under review for Earth Planet. Sci. Lett. [https://doi.org/10.1016/j.icarus.2023.115860](https://doi.org/10.1016/j.icarus.2023.115860)
 
 * **Articles: Published or In Press**
 
 **Zhang, Z.**, **Trace elements in IVA iron meteorites explained by limited solid-liquid equilibration
-during inward solidification**. Icarus. In press.
+during inward solidification**. Icarus. 408, 115860.
 
 **Zhang, Z.**, 2023. **Ice sublimation in planetesimals formed at the outward migrating snowline**. Astrophys. J. Lett. 956(1) L25. [https://doi.org/10.3847/2041-8213/acfdaa](https://doi.org/10.3847/2041-8213/acfdaa)
 
