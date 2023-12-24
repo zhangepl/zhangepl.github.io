@@ -10,7 +10,7 @@ In September 2023, I started as a Carnegie Postdoctoral Fellow at [the Earth and
 
 I define myself as a planetary geophysicist. I am generally interested in the formation and evolution of planetary bodies. My research approach is to develop theoretical models and combine the model results with a variety of observations. My ultimate goals are to understand what processes shaped the chemical and physical properties of terrestrial planets and how these properties affected their evolution. I tackle these problems from the perspective of the evolution of planetary building blocks and their interactions with planet formation processes.
 
-Most of my past and ongoing research projects are about planetesimals (asteroid-sized planet build blocks) and planetary embryos (Moon-to-Mars-sized "proto-planets"). Specifically, my research interest covers the following topics:
+Most of my past and ongoing research projects are about planetesimals (asteroid-sized planetary building blocks) and planetary embryos (Moon-to-Mars-sized "proto-planets"). Specifically, my research interest covers the following topics:
 
 * Ice sublimation and hydrothermal processes in initially water/ice-rich planetesimals
 
