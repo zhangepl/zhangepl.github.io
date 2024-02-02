@@ -2,7 +2,7 @@
 
 * **Articles: Submitted**
   
-\[12\] **Zhang, Z.**, Wang, J., **Quantification of classical and non-classical crystallization pathways in calcite precipitation**. Under review for Earth Planet. Sci. Lett. 
+\[12\] **Zhang, Z.**, Wang, J., **Quantification of classical and non-classical crystallization pathways in calcite precipitation**. In revision for Earth Planet. Sci. Lett. 
 
 * **Articles: Published or In Press**
 
