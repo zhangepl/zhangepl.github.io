@@ -13,7 +13,7 @@ during inward solidification**. Icarus. 408, 115860. [https://doi.org/10.1016/j.
 
 \[9\] **Zhang, Z.**, Bercovici, D., 2023. **Generation of a measurable magnetic field in a metal asteroid with a rubble-pile inner core**. Proc. Natl. Acad. Sci. 120 (32), e2221696120. [https://doi.org/10.1073/pnas.2221696120](https://doi.org/10.1073/pnas.2221696120)
 
-\[8\] Gong, Z., Evans, D. A. D., **Zhang, Z.**, Yan, C., 2023. **Mid-Proterozoic geomagnetic field was more consistent with a dipole than a quadrupole**. Geology. 51 (6), 571–575. [https://doi.org/10.1130/ G50941.1](https://doi.org/10.1130/ G50941.1)
+\[8\] Gong, Z., Evans, D. A. D., **Zhang, Z.**, Yan, C., 2023. **Mid-Proterozoic geomagnetic field was more consistent with a dipole than a quadrupole**. Geology. 51 (6), 571–575. [https://doi.org/10.1130/G50941.1](https://doi.org/10.1130/ G50941.1)
 
 \[7\] **Zhang, Z.**, Bercovici, D., Elkins-Tanton, L. T., 2023. **Melt migration in rubble-pile planetesimals: Implications for the formation of primitive achondrites**. Earth Planet. Sci. Lett. 605, 118019. [https://doi.org/10.1016/j.epsl.2023.118019](https://doi.org/10.1016/j.epsl.2023.118019)
 
