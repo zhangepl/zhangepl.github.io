@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## About Me 
+## Zhongtian Zhang 
 
 Welcome to my website! 
 
