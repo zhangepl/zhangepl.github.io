@@ -1,10 +1,9 @@
 ## Publications
 
-* **Articles: Submitted**
-  
-\[12\] **Zhang, Z.**, Wang, J., **Quantification of classical and non-classical crystallization pathways in calcite precipitation**. In revision for Earth Planet. Sci. Lett. 
+%* **Articles: Submitted**
+%* **Articles: Published or In Press**
 
-* **Articles: Published or In Press**
+\[12\] **Zhang, Z.**, Wang, J., 2024. **Quantification of classical and non-classical crystallization pathways in calcite precipitation**. Earth Planet. Sci. Lett., In press. 
 
 \[11\] **Zhang, Z.**, 2024. **Trace elements in IVA iron meteorites explained by limited solid-liquid equilibration
 during inward solidification**. Icarus. 408, 115860. [https://doi.org/10.1016/j.icarus.2023.115860](https://doi.org/10.1016/j.icarus.2023.115860)
