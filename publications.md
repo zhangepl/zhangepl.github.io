@@ -1,6 +1,6 @@
 ## Publications
-#* **Articles: Submitted**
-#* **Articles: Published or In Press**
+%%* **Articles: Submitted**
+%%* **Articles: Published or In Press**
 
 \[12\] **Zhang, Z.**, Wang, J., 2024. **Quantification of classical and non-classical crystallization pathways in calcite precipitation**. Earth Planet. Sci. Lett., In press. 
 
