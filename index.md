@@ -20,4 +20,6 @@ Most of my past and ongoing research projects are about planetesimals (asteroid-
 
 * Volatile depletion in terrestrial bodies due to nebular and planetesimal processes
 
+* Long-term planet evolution and connections between planet formation and present-day observations
+
 For more information, please check my [CV](https://zhangepl.github.io/ZZCV.pdf) and [publication list](https://zhangepl.github.io/publications), or send me an [email](mailto:zzhang10@carnegiescience.edu).
