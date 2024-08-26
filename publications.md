@@ -1,6 +1,10 @@
 ## Publications
-<!-- * **Articles: Submitted** -->
-<!-- * **Articles: Published or In Press** -->
+* **Articles: Submitted**
+
+\[13\] **Zhang, Z.**, Driscoll, P. E., **Inefficient loss of moderately volatile elements from exposed planetesimal
+magma oceans**. Under review.
+
+* **Articles: Published or In-Press**
 
 \[12\] **Zhang, Z.**, Wang, J., 2024. **Quantification of classical and non-classical crystallization pathways in calcite precipitation**. Earth Planet. Sci. Lett. 636, 118712. [https://doi.org/10.1016/j.epsl.2024.118712](https://doi.org/10.1016/j.epsl.2024.118712)
 
