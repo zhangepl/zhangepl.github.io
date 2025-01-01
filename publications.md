@@ -1,5 +1,4 @@
 ## Publications
-%* **Articles: Submitted**
 
 * **Articles: Published or In-Press**
 
