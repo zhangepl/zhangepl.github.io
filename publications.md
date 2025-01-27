@@ -2,7 +2,7 @@
 
 * **Articles: Submitted**
   
-Grewal, D., **Zhang, Z.**, Manilal, V., Kruijer, T., Bottke, W., Stewart, S., Protracted core formation and impact disruptions shaped the earliest outer solar system planetesimals. Submitted.
+\[14\] Grewal, D., **Zhang, Z.**, Manilal, V., Kruijer, T., Bottke, W., Stewart, S., Protracted core formation and impact disruptions shaped the earliest outer solar system planetesimals. Submitted.
 
 * **Articles: Published or In-Press**
 
