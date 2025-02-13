@@ -8,7 +8,7 @@
 
 * **Articles: Published or In-Press**
 
-\[13\] **Zhang, Z.**, Driscoll, P. E., 2025. **Inefficient loss of moderately volatile elements from exposed planetesimal magma oceans**. In Press.
+\[13\] **Zhang, Z.**, Driscoll, P. E., 2025. **Inefficient loss of moderately volatile elements from exposed planetesimal magma oceans**. J. Geophys. Res., Planets 130 (2), e2024JE008671. [https://doi.org/10.1029/2024JE008671](https://doi.org/10.1029/2024JE008671)
 
 \[12\] **Zhang, Z.**, Wang, J., 2024. **Quantification of classical and non-classical crystallization pathways in calcite precipitation**. Earth Planet. Sci. Lett. 636, 118712. [https://doi.org/10.1016/j.epsl.2024.118712](https://doi.org/10.1016/j.epsl.2024.118712)
 
@@ -23,15 +23,15 @@ during inward solidification**. Icarus. 408, 115860. [https://doi.org/10.1016/j.
 
 \[7\] **Zhang, Z.**, Bercovici, D., Elkins-Tanton, L. T., 2023. **Melt migration in rubble-pile planetesimals: Implications for the formation of primitive achondrites**. Earth Planet. Sci. Lett. 605, 118019. [https://doi.org/10.1016/j.epsl.2023.118019](https://doi.org/10.1016/j.epsl.2023.118019)
 
-\[6\] **Zhang, Z.**, Bercovici, D., Elkins-Tanton, L. T., 2022. **Cold compaction and macro-porosity removal in rubble-pile asteroids: 2. Applications**. J. Geophys. Res., Planets 127, e2022JE007343. [https://doi.org/10.1029/2022JE007343](https://doi.org/10.1029/2022JE007343)
+\[6\] **Zhang, Z.**, Bercovici, D., Elkins-Tanton, L. T., 2022. **Cold compaction and macro-porosity removal in rubble-pile asteroids: 2. Applications**. J. Geophys. Res., Planets 127 (10), e2022JE007343. [https://doi.org/10.1029/2022JE007343](https://doi.org/10.1029/2022JE007343)
 
-\[5\] **Zhang, Z.**, Bercovici, D., Elkins-Tanton, L. T., 2022. **Cold compaction and macro-porosity removal in rubble-pile asteroids: 1. Theory**. J. Geophys. Res., Planets 127, e2022JE007342. [https://doi.org/10.1029/2022JE007342](https://doi.org/10.1029/2022JE007342)
+\[5\] **Zhang, Z.**, Bercovici, D., Elkins-Tanton, L. T., 2022. **Cold compaction and macro-porosity removal in rubble-pile asteroids: 1. Theory**. J. Geophys. Res., Planets 127 (10), e2022JE007342. [https://doi.org/10.1029/2022JE007342](https://doi.org/10.1029/2022JE007342)
 
-\[4\] **Zhang, Z.**, Bercovici, D., Jordan, J.S., 2021. **A two-phase model for the evolution of planetary embryos with implications for the formation of Mars**. J. Geophys. Res., Planets 126, e2020JE006754. [https://doi.org/10.1029/2020JE006754](https://doi.org/10.1029/2020JE006754)
+\[4\] **Zhang, Z.**, Bercovici, D., Jordan, J.S., 2021. **A two-phase model for the evolution of planetary embryos with implications for the formation of Mars**. J. Geophys. Res., Planets 126 (4), e2020JE006754. [https://doi.org/10.1029/2020JE006754](https://doi.org/10.1029/2020JE006754)
 
-\[3\] **Zhang, Z.**, Karato, S.-I., 2021. **The effect of pressure on grain-growth kinetics in olivine aggregates with some geophysical applications**. J. Geophys. Res., Solid Earth 126, e2020JB020886. [https://doi.org/10.1029/2020JB020886](https://doi.org/10.1029/2020JB020886)
+\[3\] **Zhang, Z.**, Karato, S.-I., 2021. **The effect of pressure on grain-growth kinetics in olivine aggregates with some geophysical applications**. J. Geophys. Res., Solid Earth 126 (2), e2020JB020886. [https://doi.org/10.1029/2020JB020886](https://doi.org/10.1029/2020JB020886)
 
-\[2\] **Zhang, Z.**, Wu, B., Wang, T., Hui, H., 2020. **Settling of immiscible droplets: A theoretical model for the missing link between microscopic and outcrop observations**. J. Geophys. Res., Solid Earth 125, e2019JB018829. [https://doi.org/10.1029/2019JB018829](https://doi.org/10.1029/2019JB018829)
+\[2\] **Zhang, Z.**, Wu, B., Wang, T., Hui, H., 2020. **Settling of immiscible droplets: A theoretical model for the missing link between microscopic and outcrop observations**. J. Geophys. Res., Solid Earth (6) 125, e2019JB018829. [https://doi.org/10.1029/2019JB018829](https://doi.org/10.1029/2019JB018829)
 
 \[1\] Xu, Y., Tang, W., Hui, H., Rudnick, R. L., Shang, S., **Zhang, Z.**, 2019. **Reconciling the discrepancy
 between the dehydration rates in mantle olivine and pyroxene during xenolith emplacement**. Geochim.
