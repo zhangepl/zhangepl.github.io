@@ -2,7 +2,7 @@
 
 * **Articles: Submitted**
 
-\[15\] **Zhang, Z.**, Luo, H., Hao, M., Deng, J., **Regimes of element transfer between Earth's core and basal magma ocean**. Submitted.
+\[15\] **Zhang, Z.**, Luo, H., Hao, M., Deng, J., **Regimes of element transfer between Earth's core and basal magma ocean**. Under revision.
   
 \[14\] Grewal, D., **Zhang, Z.**, Manilal, V., Kruijer, T., Bottke, W., Stewart, S., **Protracted core formation and impact disruptions shaped the earliest outer solar system planetesimals**. Submitted.
 
