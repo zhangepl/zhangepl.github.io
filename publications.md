@@ -4,6 +4,7 @@
   
 \[16\] Peng, Y., Kislyakova, K., Zheng, D., **Zhang, Z.**, Deng, J., Induction heating in super-Earths: A thermochemical perspective. Submitted.
 
+
 * **Articles: Published or In-Press**
 
 \[15\] Grewal, D., **Zhang, Z.**, Manilal, V., Kruijer, T., Bottke, W., Stewart, S., 2025. **Protracted core formation and impact disruptions shaped the earliest outer solar system planetesimals**. Sci. Adv. In-Press.
