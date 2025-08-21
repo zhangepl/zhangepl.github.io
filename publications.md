@@ -2,7 +2,7 @@
 
 * **Articles: Submitted**
   
-\[15\] Grewal, D., **Zhang, Z.**, Manilal, V., Kruijer, T., Bottke, W., Stewart, S., **Protracted core formation and impact disruptions shaped the earliest outer solar system planetesimals**. Under revision.
+\[16\] Peng, Y., Kislyakova, K., Zheng, D., **Zhang, Z.**, Deng, J., Induction heating in super-Earths: A thermochemical perspective. Submitted.
 
 * **Articles: Published or In-Press**
 
