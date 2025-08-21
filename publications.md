@@ -6,6 +6,8 @@
 
 * **Articles: Published or In-Press**
 
+  \[15\] Grewal, D., **Zhang, Z.**, Manilal, V., Kruijer, T., Bottke, W., Stewart, S., 2025. **Protracted core formation and impact disruptions shaped the earliest outer solar system planetesimals**. Sci. Adv. In-Press.
+
 \[14\] **Zhang, Z.**, Luo, H., Hao, M., Deng, J., 2025. **Regimes of element transfer between Earth's core and basal magma ocean**. J. Geophys. Res., Solid Earth 130 (7), e2025JB031357. [https://doi.org/10.1029/2025JB031357](https://doi.org/10.1029/2025JB031357)
 
 \[13\] **Zhang, Z.**, Driscoll, P. E., 2025. **Inefficient loss of moderately volatile elements from exposed planetesimal magma oceans**. J. Geophys. Res., Planets 130 (2), e2024JE008671. [https://doi.org/10.1029/2024JE008671](https://doi.org/10.1029/2024JE008671)
