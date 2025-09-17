@@ -22,4 +22,4 @@ Most of my past and ongoing research projects are about planetesimals (asteroid-
 
 * Long-term planet evolution and connections between planet formation and present-day observations
 
-For more information, please check my [CV](https://zhangepl.github.io/ZZCV.pdf) and [publication list](https://zhangepl.github.io/publications), or send me an [email](mailto:zzhang10@carnegiescience.edu).
+For more information, please check my [CV](https://zhangepl.github.io/ZZCV.pdf) and [publication list](https://zhangepl.github.io/publications), or send me an [email](mailto:zhongtian.zhang@princeton.edu).
