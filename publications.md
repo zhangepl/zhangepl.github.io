@@ -1,5 +1,11 @@
 ## Publications
 
+* **Articles: Submitted**
+
+\[18\] **Zhang, Z.**, Grewal, D., **A re-assessment of moderately volatile elements in the non-matrix component of carbonaceous chondrites**. Submitted.
+
+\[17\] Grewal, D., **Zhang, Z.**, **Beyond the Urey-Craig diagram: A ternary Fe framework for aqueous redox evolution of early solar system planetesimals**. Submitted.
+
 * **Articles: Published or In-Press**
   
 \[16\] Peng, Y., Kislyakova, K., Zheng, D., **Zhang, Z.**, Deng, J., 2025. **Induction heating in super-Earths: A thermochemical perspective**. Astrophys. J. Lett. 933, L56. [https://doi.org/10.3847/2041-8213/ae14e9](https://doi.org/10.3847/2041-8213/ae14e9).
