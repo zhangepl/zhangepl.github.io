@@ -2,9 +2,7 @@
 
 * **Articles: Submitted**
 
-\[18\] **Zhang, Z.**, Grewal, D., **A re-assessment of moderately volatile elements in the non-matrix component of carbonaceous chondrites**. Submitted.
-
-\[17\] Grewal, D., **Zhang, Z.**, **Beyond the Urey-Craig diagram: A ternary Fe framework for aqueous redox evolution of early solar system planetesimals**. Submitted.
+\[17\] **Zhang, Z.**, Grewal, D., **A re-assessment of moderately volatile elements in the non-matrix component of carbonaceous chondrites**. Submitted.
 
 * **Articles: Published or In-Press**
   
