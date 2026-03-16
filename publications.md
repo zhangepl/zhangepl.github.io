@@ -2,7 +2,7 @@
 
 * **Articles: Submitted**
 
-\ [18\] Grewal, D. S., **Zhang, Z.**, Dr{\k{a}}{\.z}kowska, J. Size-dependent sorting governed planetesimal compositions from the onset of solar system formation. Submitted.
+\[18\] Grewal, D. S., **Zhang, Z.**, Dr{\k{a}}{\.z}kowska, J. Size-dependent sorting governed planetesimal compositions from the onset of solar system formation. Submitted.
 
 * **Articles: Published or In-Press**
 
