@@ -2,9 +2,11 @@
 
 * **Articles: Submitted**
 
-\[17\] **Zhang, Z.**, Grewal, D., **A re-assessment of moderately volatile elements in the non-matrix component of carbonaceous chondrites**. Submitted.
+\ [18\] Grewal, D. S., **Zhang, Z.**, Dr{\k{a}}{\.z}kowska, J. Size-dependent sorting governed planetesimal compositions from the onset of solar system formation. Submitted.
 
 * **Articles: Published or In-Press**
+
+\[17\] **Zhang, Z.**, Grewal, D., 2026. **A re-assessment of moderately volatile elements in the non-matrix component of carbonaceous chondrites**. Icarus. 452, 117049. [https://doi.org/10.1016/j.icarus.2026.117049](https://doi.org/10.1016/j.icarus.2026.117049).
   
 \[16\] Peng, Y., Kislyakova, K., Zheng, D., **Zhang, Z.**, Deng, J., 2025. **Induction heating in super-Earths: A thermochemical perspective**. Astrophys. J. Lett. 933, L56. [https://doi.org/10.3847/2041-8213/ae14e9](https://doi.org/10.3847/2041-8213/ae14e9).
 
