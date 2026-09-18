@@ -1,12 +1,10 @@
 ## Publications
 
-* **Articles: Submitted**
-
-\[19\] Grewal, D. S., **Zhang, Z.**, Drążkowska, J. Size-dependent sorting governed planetesimal compositions from the onset of solar system formation. Submitted.
-
 * **Articles: Published or In-Press**
 
-\[19\] Grewal, D. S., **Zhang, Z.**, 2026. **Beyond the Urey-Craig diagram: A ternary Fe framework for aqueous redox evolution of early solar system planetesimals**.  Geochim. Cosmochim. Acta 277. [https://doi.org/10.1016/j.gca.2026.08.036](https://doi.org/10.1016/j.gca.2026.08.036).
+\[19\] Grewal, D. S., **Zhang, Z.**, Drążkowska, J. **Planetesimal compositions governed by aerodynamic sorting from the onset of Solar System formation**. Nat. Astron. [https://doi.org/10.1038/s41550-026-02976-6](https://doi.org/10.1038/s41550-026-02976-6).
+
+\[19\] Grewal, D. S., **Zhang, Z.**, 2026. **Beyond the Urey-Craig diagram: A ternary Fe framework for aqueous redox evolution of early solar system planetesimals**. Geochim. Cosmochim. Acta 277. [https://doi.org/10.1016/j.gca.2026.08.036](https://doi.org/10.1016/j.gca.2026.08.036).
 
 \[17\] **Zhang, Z.**, Grewal, D. S., 2026. **A re-assessment of moderately volatile elements in the non-matrix component of carbonaceous chondrites**. Icarus. 452, 117049. [https://doi.org/10.1016/j.icarus.2026.117049](https://doi.org/10.1016/j.icarus.2026.117049).
   
